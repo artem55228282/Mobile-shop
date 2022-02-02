@@ -1,0 +1,67 @@
+{
+    "phones": [
+          {
+              "id": 0,
+              "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4380539/img_id7341649431705533527.jpeg/13hq",
+              "name": "Samsung Galaxy s21",
+              "colors": ["gray", "white"],
+              "price": 1000,
+              "category": 1,
+              "info": "Samsung S21, Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, voluptas."
+          },
+          {
+            "id": 1,
+            "imageUrl": "https://www.creditasia.uz/upload/iblock/95b/smartfon-iphone-12-128gb-white.gif",
+            "name": "Iphone 13",
+            "colors": ["black", "gray"],
+            "price": 1200,
+            "category": 2,
+            "info": "Iphone 13, Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, voluptas."
+          },
+          {
+            "id": 2,
+            "imageUrl": "https://www.notebookcheck-ru.com/uploads/tx_nbc2/XiaomiMi11Ultra.jpg",
+            "name": "Mi 11 Ultra",
+            "colors": ["black", "gray"],
+            "price": 1100,
+            "category": 3,
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit natus totam officiis dolore, quo quisquam reiciendis dolor ex ipsa, doloribus voluptatibus suscipit vitae accusamus pariatur, eius deserunt incidunt possimus est rem tempore. Quos quod, sequi ducimus modi vitae soluta ullam? Ex expedita laborum mollitia temporibus perferendis vitae autem, ad, fugiat incidunt placeat velit natus eligendi dignissimos quasi repellat qui, quia itaque neque tempore sequi? Sapiente officia, nemo enim ullam repellat ex corporis consequuntur consequatur temporibus vero exercitationem est quam ducimus neque modi impedit aliquid quod vitae cumque soluta cupiditate totam, laboriosam nobis ratione? Aliquam unde at placeat eaque minus omnis ipsum odio suscipit quia repellat ipsa illo vero dicta perferendis, ab, fugit velit architecto ea ullam eius earum! Incidunt beatae soluta nostrum eveniet in architecto dolores ipsa, laudantium, consectetur, modi cum porro dolor iusto libero laborum praesentium nobis ipsum adipisci officiis accusamus quia aliquam consequatur deserunt. Ipsam quod atque sit, veniam error obcaecati amet modi. Consectetur eius at similique quisquam magnam modi voluptatem! Ullam nemo est ratione incidunt. Ducimus ad esse rerum. Pariatur, veritatis. Iure autem, accusamus nihil quaerat ut deleniti nisi sint perferendis molestiae consequuntur blanditiis nesciunt architecto, officiis error totam! Saepe perferendis tempore voluptate ad illo, itaque at?"
+          },
+          {
+            "id": 3,
+            "imageUrl": "https://www.creditasia.uz/upload/iblock/88b/Smartfon-Xiaomi-Note-9-Pro-6_64GB-Interstellar-Grey-11.jpg",
+            "name": "Redmi Note 9 Pro",
+            "colors":  ["black", "gray", "white"],
+            "price": 300,
+            "category": 3,
+            "info": "Redmi Note 9 Pro, Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, voluptas."
+          },
+          {
+            "id": 4,
+            "imageUrl": "https://i01.appmifile.com/webfile/globalimg/Cindy/F4Lpurple.png",
+            "name": "Mi Note 10 Lite",
+            "colors": ["black", "gray", "white"],
+            "price": 500,
+            "category": 3,
+            "info": "Mi 11 Ultra, Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, voluptas."
+          },
+          {
+            "id": 5,
+            "imageUrl": "https://www.creditasia.uz/upload/iblock/797/smartfon-redmi-note-10s-6-128gb-onyx-gray.gif",
+            "name": "Redmi 10",
+            "colors": ["black", "gray", "white"],
+            "price": 700,
+            "category": 3,
+            "info": "Mi 11 Ultra, Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, voluptas."
+          },
+          {
+            "id": 6,
+            "imageUrl": "https://www.creditasia.uz/upload/iblock/797/smartfon-redmi-note-10s-6-128gb-onyx-gray.gif",
+            "name": "Redmi 11",
+            "colors": ["black", "gray", "white"],
+            "price": 1200,
+            "category": 3,
+            "info": "RedMi 11 Ultra, Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, voluptas."
+          }
+    ]
+}

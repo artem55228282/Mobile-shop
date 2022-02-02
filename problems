@@ -1,0 +1,14 @@
+choose a button 
+after reload phonepage ca'nt take data of phone by id
+
+
+// auth 
+new module auth vuex 
+npm i js-cookie
+    config in store 
+
+
+// vuex-persistetstate 
+not changing without routes 
+
+
